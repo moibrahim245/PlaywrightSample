@@ -1,0 +1,21 @@
+{
+  "name": "PlaywrightSample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moibrahim245/PlaywrightSample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moibrahim245/PlaywrightSample/issues"
+  },
+  "homepage": "https://github.com/moibrahim245/PlaywrightSample#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
